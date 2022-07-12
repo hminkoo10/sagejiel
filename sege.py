@@ -55,4 +55,4 @@ async def on_message(message):
         if str(ctx.author.id) in admin:
             check = []
             await message.channel.send("완료!")
-client.run("NzE0ODM1Mjg0NzIxNjY0MDIy.Xtrk-Q.uqksJ0PnxbGmZlT-huAT23r7aak")
+client.run("TOKEN")
